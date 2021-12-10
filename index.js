@@ -46,12 +46,8 @@ LogsExtra(Client, {
 
 Client.on("messageCreate", async (message) => {
 
-    let guild = Client.guilds.cache.get("895349885363159140")
-    let channe1 = guild.channels.cache.get("895349885363159144")
-    let channe2 = guild.channels.cache.get("898646096769847317")
-
-    if (message.content.toString().toLowerCase() === "asdfjnkfejhbkejblfljbkwalbjkflbkjwakjbflbjhvkfjlhvbklk") {
-    }
+//code
+    
 })
 
 Client.on("messageDelete", async (message) => {
