@@ -1,0 +1,2 @@
+# DiscordBotLogs
+Discord bot logs
