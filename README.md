@@ -12,4 +12,6 @@ this code was written all by me and a simple audit logs.
 #discord bot v13 | #discord in v13 | #discord bots
 #logs | #discord bot logs | #discord | #discord.js
 
+:P
+
 My discord:Teox#0001(462980817040310283)
