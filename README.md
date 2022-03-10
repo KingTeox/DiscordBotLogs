@@ -36,4 +36,4 @@ discord Store: https://discord.gg/dtKxFktrBe
 #discord js
 #discord help
 #discord main
-#discord moderation, simple, invites, guild, members, fun, 
+#discord moderation, simple, invites, guild, members, cool, server, servers, 8ball, fun, 
