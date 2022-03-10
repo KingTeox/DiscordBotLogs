@@ -14,4 +14,5 @@ this code was written all by me and a simple audit logs.
 
 :P
 
-My discord:Teox#0001(462980817040310283)
+discord: Teox#7185 (462980817040310283)
+discord Store: https://discord.gg/dtKxFktrBe
