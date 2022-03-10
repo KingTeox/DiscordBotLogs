@@ -3,10 +3,10 @@
         "Teox": "462980817040310283"
     },
     "Roles": {
-        "a": "N/1"
+        "Super_Secret_Role": "N/A"
     },
     "Channels": {
-        "Logs": "",
-        "Welcome": ""
+        "Logs": "N/A",
+        "Welcome": "N/A"
     }
 }
