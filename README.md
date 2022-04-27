@@ -4,9 +4,9 @@ Discord bot logs
 
 Open Workspace in vs code and set up.
 
-on your terminal use ["npm i --save" & "npm update --save"]
+Open your terminal and use ```npm i --save & npm update --save```
 
-this code was written all by me and a simple audit logs.
+this code was written all by me and is a simple audit logs.
 
 :P
 
