@@ -10,8 +10,8 @@ this code was written all by me and a simple audit logs.
 
 :P
 
-discord: Teox#7185 (462980817040310283)
-discord Store: https://discord.gg/dtKxFktrBe
+Discord: Teox (462980817040310283)
+Discord Store: https://discord.gg/dtKxFktrBe
 
 
 
